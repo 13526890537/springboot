@@ -12,6 +12,7 @@
         <module>common</module>
         <module>consumer</module>
         <module>provide</module>
+        <module>student</module>
     </modules>
     <!-- 设置我们项目的一些版本属性 -->
     <properties>
